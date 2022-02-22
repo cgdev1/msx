@@ -1,0 +1,19 @@
+{
+   "type": "pages",
+   "headline": "Welcome to Lake Buena Vista Resort #5902",
+   "template": {
+      "tag": "Web",
+      "type": "default",
+      "layout": "0,0,4,2",
+      "icon": "msx-white-soft:public",
+      "imageFiller": "smart",
+      "image": "https://www.mousescrappers.com/lbv5902/thumbnail.jpg",
+      "color": "msx-black"
+   },
+   "items": [
+      {
+         "title": "Click here to access guest info",
+         "action": "link:window:http://play.playr.biz/en/2352/63229"
+      }
+   ]
+}
